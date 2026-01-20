@@ -53,7 +53,7 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-                Building an Anime website where user will watch anime
+                Design mega menu and a landing page 
               </h2>
               <p className="text-white-50 md:text-xl">
                 A landing page built with React and TailwindCSS for a tech company.
@@ -76,7 +76,7 @@ const AppShowcase = () => {
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img src="/images/project3.png" alt="YC Directory App" />
               </div>
-              <h2>YC Directory - A Startup Showcase App</h2>
+              <h2> Building an Anime website where user will watch anime</h2>
             </div>
           </div>
         </div>
