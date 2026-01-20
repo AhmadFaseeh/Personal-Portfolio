@@ -53,7 +53,7 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-                Built a Landing Page for a Tech Company
+                Building an Anime website where user will watch anime
               </h2>
               <p className="text-white-50 md:text-xl">
                 A landing page built with React and TailwindCSS for a tech company.
@@ -69,7 +69,7 @@ const AppShowcase = () => {
                   alt="Library Management Platform"
                 />
               </div>
-              <h2>The Library Management Platform</h2>
+              <h2>The dashboard where user can login and publish a post</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
