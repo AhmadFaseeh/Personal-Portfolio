@@ -37,40 +37,50 @@ const counterItems = [
 
 const logoIconsList = [
   {
-    imgPath: "/images/logos/company-logo-1.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    name: "React"
   },
   {
-    imgPath: "/images/logos/company-logo-2.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    name: "JavaScript"
   },
   {
-    imgPath: "/images/logos/company-logo-3.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    name: "Node.js"
   },
   {
-    imgPath: "/images/logos/company-logo-4.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+    name: "Next.js"
   },
   {
-    imgPath: "/images/logos/company-logo-5.png",
+    imgPath: "https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png",
+    name: "Vercel"
   },
   {
-    imgPath: "/images/logos/company-logo-6.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg",
+    name: "Netlify"
   },
   {
-    imgPath: "/images/logos/company-logo-7.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    name: "GitHub"
   },
   {
-    imgPath: "/images/logos/company-logo-8.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+    name: "MongoDB"
   },
   {
-    imgPath: "/images/logos/company-logo-9.png",
+    imgPath: "https://appwrite.io/images/logomark/logo.png",
+    name: "Appwrite"
   },
   {
-    imgPath: "/images/logos/company-logo-10.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
+    name: "Tailwind CSS"
   },
   {
-    imgPath: "/images/logos/company-logo-11.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+    name: "Bootstrap"
   },
 ];
-
 const abilities = [
   {
     imgPath: "/images/seo.png",
