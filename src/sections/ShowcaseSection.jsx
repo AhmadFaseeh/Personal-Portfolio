@@ -53,9 +53,10 @@ const AppShowcase = () => {
               <h2>
                 Design mega menu and a landing page 
               </h2>
-              <p className="text-white-50 md:text-xl">
-                A landing page built with React and TailwindCSS for a tech company.
-              </p>
+              <a href="https://mega-menu-mocha.vercel.app/"> <p className="text-white-50 md:text-xl">
+               A landing page built with React and TailwindCSS for a tech company.
+              </p></a>
+             
             </div>
           </div>
 
