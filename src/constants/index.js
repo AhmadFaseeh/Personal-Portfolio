@@ -147,43 +147,42 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Ahmad brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Ahmad's front-end development skills shine through responsive designs and clean code architecture. His work on the Anime Vault demonstrates mastery of modern web technologies and API integration.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "October 2024 - Present",
+    title: "Front-End Developer (React & Next.js)",
+    date: "December 2024 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Built Anime Vault (anime-vault-beryl-xi.vercel.app) using Next.js with infinite scroll and API integration for dynamic content loading.",
+      "Developed responsive websites using React, Next.js, and Tailwind CSS for optimal mobile and desktop experiences.",
+      "Created personal portfolio website showcasing projects with GSAP animations and user-friendly interface design.",
     ],
   },
   {
-    review: "Ahmad’s contributions to PWA web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Ahmad demonstrated strong technical skills in WordPress development, successfully customizing websites and training chatbots to enhance user experience and customer engagement.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2024 - December 2024",
+    title: "WordPress Developer",
+    date: "July 2024 - Present",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Developed and customized WordPress websites using Elementor to meet client requirements and improve user experience.",
+      "Integrated and configured plugins including WooCommerce, WPML, Yoast SEO, and Tidio.AI to extend functionality.",
+      "Trained chatbots on customer questions to work as live agents, improving customer support.",
     ],
   },
   {
-    review: "Ahmad’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+    review: "Ahmad's expertise in e-commerce platforms brought significant improvements to product visibility and customer engagement across Shopify and Alibaba platforms.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
-    title: "React JS Developer",
-    date: "March 2024 - May 2024",
+    title: "E-commerce Developer (Shopify & Alibaba)",
+    date: "2024 - Present",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Developed and customized Shopify stores, managing themes, apps, and payment integrations.",
+      "Uploaded and optimized product listings on Alibaba with accurate details, SEO keywords, and professional presentation.",
+      "Improved product visibility and user experience across both platforms, increasing customer engagement and sales opportunities.",
     ],
   },
 ];
-
 const expLogos = [
   {
     name: "logo1",
