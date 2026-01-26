@@ -12,14 +12,12 @@ const AppShowcase = () => {
   const ycDirectoryRef = useRef(null);
 
   useGSAP(() => {
-    // Animation for the main section
-    gsap.fromTo(
+      gsap.fromTo(
       sectionRef.current,
       { opacity: 0 },
       { opacity: 1, duration: 1.5 }
     );
 
-    // Animations for each app showcase
     const cards = [rydeRef.current, libraryRef.current, ycDirectoryRef.current];
 
     cards.forEach((card, index) => {
