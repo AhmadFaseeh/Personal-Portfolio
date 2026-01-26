@@ -74,7 +74,8 @@ const AppShowcase = () => {
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img src="/images/project3.png" alt="YC Directory App" />
               </div>
-              <h2> Building an Anime website where user will watch anime</h2>
+              <a href="https://anime-vault-beryl-xi.vercel.app/"><h2> Building an Anime website where user will watch anime</h2></a>
+              
             </div>
           </div>
         </div>
